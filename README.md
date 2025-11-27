@@ -4,6 +4,8 @@
 # 运行
 cargo run
 
+Note: if you are on Windows, you need to - install Rust first,  I guess, you need to install MSVC+win SDK as well
+
 # 如果想本地测试，运行多一个在另外的一个目录里
 
 cargo run -- 3001

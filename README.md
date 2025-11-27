@@ -21,3 +21,18 @@ cargo run -- 3001
 
 
 <img width="1561" height="941" alt="image" src="https://github.com/user-attachments/assets/62a87eab-b4aa-4ec9-8813-53007661ba65" />
+
+
+
+
+<img width="1887" height="633" alt="image" src="https://github.com/user-attachments/assets/cad46751-76e1-45a0-90ed-34ba0d997a43" />
+
+
+
+
+<img width="1890" height="642" alt="image" src="https://github.com/user-attachments/assets/b0176091-01ee-4dae-8f37-6f0d9d310876" />
+
+   
+
+<img width="1883" height="623" alt="image" src="https://github.com/user-attachments/assets/e3d9c117-bc56-43ce-8dfc-50967a224bde" />
+
